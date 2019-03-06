@@ -60,7 +60,7 @@ var config = {
 			config: {
 				location: "New York",
 				locationID: "",  //ID from http://bulk.openweathermap.org/sample/; unzip the gz file and find your city
-				appid: "YOUR_OPENWEATHER_API_KEY"
+				appid: "de43a9da5d527bae41f0540550b31c3d"
 			}
 		},
 		{
@@ -70,7 +70,7 @@ var config = {
 			config: {
 				location: "New York",
 				locationID: "5128581",  //ID from https://openweathermap.org/city
-				appid: "YOUR_OPENWEATHER_API_KEY"
+				appid: "de43a9da5d527bae41f0540550b31c3d"
 			}
 		},
 		{
